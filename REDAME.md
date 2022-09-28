@@ -1,1 +1,1 @@
-Medium link -
+Blog link - https://medium.com/@uqba2199/build-gui-pdf-extract-applications-by-using-python-tkinter-eb8f033b2f14
